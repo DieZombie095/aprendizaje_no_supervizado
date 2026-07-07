@@ -22,4 +22,4 @@ Este proyecto consiste en 2 notebooks y un reporte final:
 - [2_clustering.ipynb](./2_clustering.ipynb): implementar el algoritmo K-Means para identificar clusters de clientes.
 - Elaborar tu reporte final como se describe en Hybridge Hub
 
-
+lame mis pelotas
